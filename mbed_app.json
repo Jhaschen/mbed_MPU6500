@@ -1,0 +1,9 @@
+{
+    "target_overrides": {
+        "*": {
+            "target.c_lib": "std",
+            "platform.all-stats-enabled": true,
+            "target.printf_lib": "std"
+        }
+    }
+}
